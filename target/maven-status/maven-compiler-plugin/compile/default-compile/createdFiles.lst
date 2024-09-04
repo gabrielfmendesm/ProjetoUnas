@@ -1,0 +1,14 @@
+br/Insper/Backend/Avisos/AvisoRepository.class
+br/Insper/Backend/Avisos/Aviso.class
+br/Insper/Backend/Avisos/AvisoController.class
+br/Insper/Backend/Beneficios/BeneficioController.class
+br/Insper/Backend/Beneficios/BeneficioRepository.class
+br/Insper/Backend/Beneficios/BeneficioService.class
+br/Insper/Backend/common/WebSecurityConfig.class
+br/Insper/Backend/Beneficios/Beneficio.class
+br/Insper/Backend/Setores/Setor.class
+br/Insper/Backend/Setores/SetorRepository.class
+br/Insper/Backend/Setores/SetorController.class
+br/Insper/Backend/BackendApplication.class
+br/Insper/Backend/Avisos/AvisoService.class
+br/Insper/Backend/Setores/SetorService.class
